@@ -75,6 +75,7 @@ h1{
   color:#000000;
   margin-top:85px;
   font-size: 70px;
+   text-shadow: -2px 1px 0 #957dd1, -5px 2px 0 #be9ddf;
   }
 h2{
   font-size:32px;
@@ -101,9 +102,7 @@ table{
 .contenido{
   max-width: 1000px;
 }
-.titulos{
-  text-shadow: -2px 1px 0 #957dd1, -5px 2px 0 #be9ddf;
-}
+
 .titulo, h1{
 font-family:"Dancing Script";
 }
